@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arya Jha</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaaajha&label=Profile%20views&color=0e75b6&style=flat" alt="aryaaajha" /> </p>
+
 - 🔭 I’m currently working on **Whatsapp Clone**
 
 - 🌱 I’m currently learning **Flutter**
