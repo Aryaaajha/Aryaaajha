@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jhaarya1002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1irXyOIdpDsx97hVogarpJ33_W_iX5UDs/view?usp=sharing](https://drive.google.com/file/d/1irXyOIdpDsx97hVogarpJ33_W_iX5UDs/view?usp=sharing)
+- 📄 Know about my experiences [https://resume.io/r/L5LGpaRYq](https://resume.io/r/L5LGpaRYq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
