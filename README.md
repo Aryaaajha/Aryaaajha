@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jhaarya1002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://tinyurl.com/arya-jha)
+- 📄 Know about my experiences [Resume]([https://tinyurl.com/arya-jha](https://drive.google.com/file/d/1NYT2wYM3xXB-bYSMCqTJ6xcOtJVRXv1s/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
